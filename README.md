@@ -35,7 +35,7 @@ PayTR logosunun ödeme sayfasında düzgün görünmesi için bir `.svg` logosu 
 ### 3. Eklentiyi Etkinleştirme ve Önbellek Temizliği
 Eklentiyi `plugins/plugins.json` dosyanıza ekledikten sonra admin panelinde görebilmek için Azuriom'un eklenti önbelleğini temizlemeniz gerekir. Terminalden veya FTP üzerinden şu dosyayı silin:
 ```bash
-rm bootstrap/cache/plugins.php
+rm bootstrap/cache/plugins.php```
 
 -----------
 
