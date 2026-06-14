@@ -1,4 +1,4 @@
-# Azuriom PayTR Payment Gateway Plugin
+# Turkish Payments Gateway Plugin
 
 This plugin is a high-security, modular PayTR payment gateway integration developed for **Azuriom CMS** (built on Laravel 12). It fully integrates with the Azuriom Shop plugin, allowing your players to securely make purchases via the PayTR iFrame API without leaving your website.
 
